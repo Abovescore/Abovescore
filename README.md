@@ -2,8 +2,14 @@
 hey, im above.
 im just a nerd doing basic development on different things.
 
-# [![Currently working on](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=I'm+currently+working+on;)](https://git.io/typing-svg)
-## [Z-Kit](https://github.com/Z-Kit-Team/Z-Kit)
-An unblockable Ultraviolet proxy suite for evading internet censorship.
+# Currently working on:
+<details open>
+<summary>Currently working on:</summary>
+  <details open>
+  <summary>Z-Kit</summary>
+  [Z-Kit](https://github.com/Z-Kit-Team/Z-Kit)
+  An unblockable Ultraviolet proxy suite for evading internet censorship. + Games.
+  </details>
+</details>
 
 ![](https://komarev.com/ghpvc/?username=Abovescore&color=blue)
