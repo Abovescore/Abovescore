@@ -9,7 +9,7 @@ im just a nerd doing basic development on different things.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<summary>Z-Kit</summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Z-Kit-Team/Z-Kit
     
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An unblockable Ultraviolet proxy suite for evading internet censorship. + Games.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An unblockable Ultraviolet proxy suite for evading internet censorship. + Games.
   </details>
 </details>
 
