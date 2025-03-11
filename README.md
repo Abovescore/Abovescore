@@ -4,13 +4,9 @@ im just a nerd doing basic development on different things.
 
 # Currently working on:
 <details open>
-<summary>Currently working on:</summary>
-  <details open>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<summary>Z-Kit</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Z-Kit-Team/Z-Kit
-    
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An unblockable Ultraviolet proxy suite for evading internet censorship. + Games.
-  </details>
+<summary>**Z-Kit**</summary>
+https://github.com/Z-Kit-Team/Z-Kit
+<br>An unblockable Ultraviolet proxy suite for evading internet censorship. + Games.
 </details>
 
 ![](https://komarev.com/ghpvc/?username=Abovescore&color=blue)
