@@ -6,9 +6,9 @@ im just a nerd doing basic development on different things.
 <details open>
 <summary>Currently working on:</summary>
   <details open>
-  <summary>Z-Kit</summary>
-  [Z-Kit](https://github.com/Z-Kit-Team/Z-Kit)
-  An unblockable Ultraviolet proxy suite for evading internet censorship. + Games.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<summary>Z-Kit</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/Z-Kit-Team/Z-Kit
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An unblockable Ultraviolet proxy suite for evading internet censorship. + Games.
   </details>
 </details>
 
