@@ -4,7 +4,7 @@ im just a nerd doing basic development on different things.
 
 # Currently working on:
 <details open>
-<summary>**Z-Kit**</summary>
+<summary>Z-Kit</summary>
 https://github.com/Z-Kit-Team/Z-Kit
 <br>An unblockable Ultraviolet proxy suite for evading internet censorship. + Games.
 </details>
